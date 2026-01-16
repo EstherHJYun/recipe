@@ -14,4 +14,4 @@
 13. Activate the virtual environment (source venv/bin/activate)
 14. Create a requirements.txt file with all the packages needed for the project
 15. Make sure to save everything
-16. Push the changes to Github
+16. Push the changes to Github (git add -> git commit -> git push)
